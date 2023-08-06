@@ -1,0 +1,8 @@
+Passos
+1. Atualizar o branch main local (pull)
+2. Criar o arquivo File3.txt na minha máquina
+2.5 Criar um branch novo
+3. Adicionar as mudanças (File3.txt) ao staged
+4. Fazer um commit do stage
+5. Fazer um push do commit ao branch novo
+6. Realizar um pull request entre o branch main e o branch novo
