@@ -15,3 +15,8 @@
 
 git checkout -b vinicius5581/update_readme
 ```
+
+- Set upstream and push
+
+```
+git push --set-upstream origin vinicius5581/update_readme
